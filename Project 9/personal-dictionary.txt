@@ -1,0 +1,8 @@
+STOP
+hi
+not
+polymorphism
+rebekah
+true
+welp
+yes
